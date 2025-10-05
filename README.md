@@ -31,5 +31,5 @@ Features
 ## ⚙️ Setup Instructions
 
 1. Clone the repo:
-```bash
-git clone https://github.com/<your-username>/ielts-institute-home.git
+bash
+git clone https://github.com/VarshithaGovind/ielts-institute-home.git
